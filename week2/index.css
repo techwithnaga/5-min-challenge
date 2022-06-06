@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    font-weight: lighter;
+}
+
+h3{
+    font-weight: lighter;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.articles{
+    margin-left:1.5em;
+}
+
+article{
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+}
+
+img {
+    width: 100%;
+}

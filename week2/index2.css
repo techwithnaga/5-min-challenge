@@ -1,0 +1,17 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+@media (max-width: 300px){
+    .container {
+        width: 90%;
+        padding-bottom: 50px;
+        margin: 90%;
+    }
+
+
+}
+img{
+    width: 50%;
+}

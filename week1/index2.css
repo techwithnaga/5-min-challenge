@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 2em;
+}
+
+.info{
+    width: 80%;
+}
+
+.bio{
+    width: 20%;
+}
+
+.par{
+    padding: 1em;
+}
+
+
+img{
+    float: left;
+    margin-right: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.btn{
+    padding: 1em;
+    background-color: gold;
+    letter-spacing: 2px;
+    transition: all 1s linear;
+}
+
+.btn:hover{
+    cursor: pointer;
+}
+
